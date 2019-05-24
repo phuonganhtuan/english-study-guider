@@ -1,0 +1,60 @@
+Banana
+Quả chuối
+bə'nɑ:nə
+Noun/Danh từ
+A hand of bananas: Nải chuối
+data/image/DAquachuoi.jpg
+Beef
+Thịt bò
+bi:f
+Noun/Danh từ
+Air-dried beef: Thịt bò khô
+data/image/DAthitbo.jpg
+Biscuit
+Bánh quy
+'biskit
+Noun/Danh từ
+Peter is nibbling at a chocolate biscuit: Peter đang gặm một cái bánh quy sô cô la
+data/image/DAbanhquy.jpg
+Cabbage
+Bắp cải
+'kæbidʒ
+Noun/Danh từ
+Cabbage stump: Lõi bắp cải
+data/image/DAbapcai.jpg
+Cake
+Bánh ngọt
+keik
+Noun/Danh từ
+Chocolate cake: Bánh ngọt socola
+data/image/DAbanhngot.jpg
+Carrot
+Cà rốt
+'kærət
+Noun/Danh từ
+He chopped up the carrot: Anh ấy băm nhỏ củ cà rốt
+data/image/DAcarot.jpg
+Chicken
+Thịt gà
+'t∫ikin
+Noun/Danh từ
+Broiled chicken: Gà nướng
+data/image/DAthitga.jpg
+Chocolate
+Sô cô la
+'t∫ɔkəlit
+Noun/Danh từ
+Chocolate bar: Thanh socola
+data/image/DAsocola.jpg
+Coconut
+Quả dừa
+'koukənʌt
+Noun/Danh từ
+Coconut milk: Nước dừa
+data/image/DAquaduaf.jpg
+Cream
+Kem
+kri:m
+Noun/Danh từ
+Chocolate creams: Kem socola
+data/image/DAkem.jpg

@@ -1,0 +1,6 @@
+﻿Thức ăn
+C:\Users\Asus\Documents\NetBeansProjects\ver2\data\thucan.txt
+Động vật
+C:\Users\Asus\Documents\NetBeansProjects\ver2\data\dongvat.txt
+Vật dụng
+C:\Users\Asus\Documents\NetBeansProjects\ver2\data\vatdung.txt

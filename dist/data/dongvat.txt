@@ -1,0 +1,252 @@
+Bat
+Con dơi
+bæt
+Noun/Danh từ
+Bats live in the dark: Dơi sống trong bóng tối
+data/image/DVcondoi.jpg
+true
+Bee
+Con ong
+bi:
+Noun/Danh từ
+Queen bee: Ong chúa
+data/image/DVconong.jpg
+true
+Camel
+Lạc đà
+'kæml
+Noun/Danh từ
+Arabian camel: Lạc đà một bướu
+data/image/DVlacda.jpg
+true
+Cat
+Con mèo
+kat
+Noun/Danh từ
+My brother named his cat Huazi: Em trai tôi đặt tên cho con mèo của nó là Huazi
+data/image/DVconmeo.jpg
+true
+Cobra
+Rắn hổ mang
+'kəʊbrə
+Noun/Danh từ
+The big black cobra: Một con rắn hổ mang lớn màu đen
+data/image/DVranhomang.jpg
+true
+Crab
+Con cua
+kræb
+Noun/Danh từ
+Nipped by a crab: Bị cua kẹp
+data/image/DVconcua.jpg
+true
+Cricket
+Con dế mèn
+'krikit
+Noun/Danh từ
+Diary of a cricket: Dế mèn phiêu lưu ký
+data/image/DVcondemen.jpg
+true
+Crocodile
+Con cá sấu
+'krɒkədail
+Noun/Danh từ
+Crocodile tears: Nước mắt cá sấu
+data/image/DVcasau.jpg
+true
+Dog
+Con chó
+dɔg
+Noun/Danh từ
+A dog bit me: 1 con chó cắn tôi
+data/image/DVconcho.jpg
+true
+Duck
+Con vịt
+dʌk
+Noun/Danh từ
+It's like water on the duck's back: Nước đổ đầu vịt
+data/image/DVconvit.jpg
+true
+Eagle
+Chim đại bàng
+'i:gl
+Noun/Danh từ
+Eagle seizing its prey: Đại bàng chộp mồi
+data/image/DVdaibang.jpg
+true
+Eel
+Con lươn
+i:l
+Noun/Danh từ
+As slippery as an eel: Trơn tuột như lươn
+data/image/DVconluon.jpg
+true
+Elephant
+Con voi
+'elifənt
+Noun/Danh từ
+Tamed elephant: Voi đã được thuần dưỡng
+data/image/DVconvoi.jpg
+true
+Falcon
+Chim ưng
+'fɔ:lkən
+Noun/Danh từ
+Falcon is a symbol of liberty, freedom, and victory: Chim ưng là một biểu tượng của sự tự do và chiến thắng
+data/image/DVchimung.jpg
+true
+Fly
+Con ruồi
+flai
+Noun/Danh từ
+Black fly: Ruồi đen
+data/image/DVconruoi.jpg
+true
+Fox
+Con cáo
+fäks
+Noun/Danh từ
+Suddenly we catch sight of a fox: Bất chợt chúng tôi nhìn thấy một con cáo
+data/image/DVconcao.jpg
+true
+Frog
+Con ếch
+frɔ:g
+Noun/Danh từ
+I dissected a frog once: Tôi từng mổ ếch 1 lần
+data/image/DVconech.jpg
+true
+Gecko
+Con tắc kè
+'gekəʊ
+Noun/Danh từ
+Gecko toes are padded with flexible ridges: Ngón chân tắc kè có những lớp đệm linh hoạt
+data/image/Dvtacke.jpg
+true
+Giraffe
+Hươu cao cổ
+dʒi'rɑ:f
+Noun/Danh từ
+The giraffe is characterized by its very long neck: Hươu cao cổ có đặc điểm là cổ rất dài
+data/image/DVhuoucaoco.jpg
+true
+Goat
+Con dê
+gəʊt
+Noun/Danh từ
+Milch goat: Dê sữa
+data/image/DVconde.jpg
+true
+Grasshopper
+Châu chấu
+grɑ:shɒpə
+Noun/Danh từ
+Want to eat a grasshopper?: Muốn ăn châu chấu không hả?
+data/image/DVchauchau.jpg
+true
+Jellyfish
+Con sứa
+'dʒelifi∫
+Noun/Danh từ
+The box jellyfish, the deadliest venom: Loài sứa hộp với nọc độc chết người nhất
+data/image/DVconsua.jpg
+true
+Leopard
+Con báo
+'lepəd
+Noun/Danh từ
+A leopard stealing up in silence through the darkness: Con báo âm thầm, rón rén đi đến trong bóng tối
+data/image/DVconbao.jpg
+true
+Lion
+Sư tử
+'laiən
+Noun/Danh từ
+Lion roared: Con sư tử gầm lên
+data/image/DVsutu.jpg
+true
+Mantis
+Con bọ ngựa
+'mæntis
+Noun/Danh từ
+Even Mantis has those thingies: Đến bọ ngựa còn có càng
+data/image/DVbongua.jpg
+true
+Monkey
+Con khỉ
+'mʌŋki
+Noun/Danh từ
+Stupid monkey: Đồ khỉ ngu ngốc
+data/image/DVconkhi.jpg
+true
+Mosquito
+Con muỗi
+mɒs'ki:təʊ
+Noun/Danh từ
+The parasite evolves and the mosquito evolves: ký sinh trùng sốt rét và loài muỗi đang tiến hóa
+data/image/DVconmuoi.jpg
+true
+Mouse
+Con chuột
+maʊs
+Noun/Danh từ
+A mouse - trap: Cái bẫy chuột
+data/image/DVconchuot.jpg
+true
+Owl
+Con cú
+aʊl
+Noun/Danh từ
+An owl can see in the dark: Con cú có thể nhìn rõ trong bóng tối
+data/image/DVconcu.jpg
+true
+Panda
+Gấu trúc
+ˈpændə
+Noun/Danh từ
+Run, run, little panda: Chạy đi gấu trúc bé nhỏ
+data/image/DVgautruc.jpg
+true
+Parrot
+Con vẹt
+'pærət
+Noun/Danh từ
+You sound like a parrot: Bạn nói như con vẹt vậy
+data/image/DVconvet.jpg
+true
+Pigeon
+Chim bồ câu
+'pidʒin
+Noun/Danh từ
+Carrier pigeon: Bồ câu đưa thư
+data/image/DVbocau.jpg
+true
+Sheep
+Con cừu
+∫i:p
+Noun/Danh từ
+Sheep poop: Phân cừu
+data/image/DVconcuu.jpg
+true
+Snake
+Con rắn
+sneik
+Noun/Danh từ
+Venomous snake: Con rắn độc
+data/image/DVconran.jpg
+true
+Tiger
+Con hổ
+'taigə
+Noun/Danh từ
+Tigers are bigger and stronger than cats: Hổ lớn hơn và khỏe hơn mèo
+data/image/DVconho.jpg
+true
+﻿Animal
+Động vật
+'æniməl
+Noun/Danh từ
+Animal kingdom: giới Động Vật
+data/image/DVdongvat.jpg
+true

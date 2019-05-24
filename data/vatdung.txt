@@ -1,0 +1,231 @@
+Balloon
+Bóng bay
+bə'lu:n
+Noun/Danh từ
+Red balloon: Bóng bay đỏ
+data/image/bongbay.jpg
+false
+Bed
+Giường
+bed
+Noun/Danh từ
+A double bed: Giường đôi
+data/image/giuong.jpg
+false
+Bicycle
+Xe đạp
+'baisikl
+Noun/Danh từ
+Folding bicycle: Xe đạp gấp
+data/image/xedap.jpg
+true
+Bin
+Thùng
+bin
+Noun/Danh từ
+Rubbish bin: Thùng rác
+data/image/thung.jpg
+false
+Blanket
+Chăn
+'blæηkit
+Noun/Danh từ
+Roll a blanket: Cuốn một cái chăn
+data/image/chan.jpg
+false
+Blind
+Tấm mành
+blaind
+Noun/Danh từ
+Roller blind: Mành cuốn
+data/image/manh.jpg
+false
+Bookshelf
+Giá sách
+'buk∫elf
+Noun/Danh từ
+The bookshelf is too high for me to reach: Kệ sách đó quá cao để tôi có thể với tới
+data/image/giasach.jpg
+false
+Brick
+Gạch
+brik
+Noun/Danh từ
+To make bricks: Nung gạch
+data/image/gach.jpg
+false
+Broom
+Cái chổi
+bru:m
+Noun/Danh từ
+Broom-stick: Cán chổi
+data/image/choi.jpg
+false
+Car
+Ô tô
+kɑ:
+Noun/Danh từ
+Armoured car: Xe bọc thép
+data/image/oto.jpg
+false
+Carpet
+Thảm trải nền
+'kɑ:pit
+Noun/Danh từ
+Lay a carpet: Trải thảm
+data/image/tham.jpg
+false
+Clock
+Đồng hồ
+klɔk
+Noun/Danh từ
+The clock has just struck three: Đồng hồ vừa điểm ba giờ
+data/image/dongho.jpg
+false
+Cup
+Cốc
+kʌp
+Noun/Danh từ
+Baking cup: Cốc hình giấy (để tạo hình bánh gatô cốc)
+data/image/coc.jpg
+false
+Desk
+Bàn làm việc
+desk
+Noun/Danh từ
+An office desk: Bàn làm việc ở cơ quan
+data/image/banlamviec.jpg
+false
+Fan
+Cái quạt
+fæn
+Noun/Danh từ
+An electric fan: Quạt điện
+data/image/quat.jpg
+false
+Key
+Chìa khóa
+ki:
+Noun/Danh từ
+Turn the key in the lock: Xoay chìa khóa trong ổ khóa
+data/image/chiakhoa.jpg
+false
+Knife
+Dao
+naif
+Noun/Danh từ
+Sharp knife: Dao sắc
+data/image/dao.jpg
+true
+Lamp
+Đèn
+læmp
+Noun/Danh từ
+Table lamp: Đèn để bàn
+data/image/den.jpg
+false
+Lock
+Cái khóa
+lɔk
+Noun/Danh từ
+To pick a lock: Mở khóa bằng móc
+data/image/khoa.jpg
+false
+Mirror
+Gương
+'mirə
+Noun/Danh từ
+Convex mirror: Gương lồi
+data/image/guong.jpg
+false
+Motorbike
+Xe máy
+'moutəbaik
+Noun/Danh từ
+Motorbike repair shop: Tiệm sửa xe máy
+data/image/xemay.jpg
+false
+Phone
+Điện thoại
+foun
+Noun/Danh từ
+Phone number: Số điện thoại
+data/image/dienthoai.jpg
+false
+Picture
+Bức tranh
+'pikt∫ə[r]
+Noun/Danh từ
+His picture of cows won a prize: Bức tranh của anh ấy về mấy con bò cái đã đoạt giải
+data/image/buctranh.jpg
+false
+Pillow
+Gối
+'pilou
+Noun/Danh từ
+Stuff a pillow with feathers: Nhồi lông chim vào gối
+data/image/goi.jpg
+false
+Shirt
+Áo sơ mi
+∫ə:t
+Noun/Danh từ
+A sports shirt: Áo sơ mi thể thao
+data/image/aosomi.jpg
+false
+Spade
+Xẻng
+speid
+Noun/Danh từ
+A garden spade: Xẻng làm vườn
+data/image/xeng.jpg
+false
+Television
+Vô tuyến truyền hình
+'teliviʒn
+Noun/Danh từ
+A television documentary: Một phim tài liệu truyền hình
+data/image/tivi.jpg
+false
+Towel
+Khăn lau
+'taʊəl
+Noun/Danh từ
+A hand-towel: Khăn tay
+data/image/khan.jpg
+false
+Vase
+Lọ hoa
+vɑ:z
+Noun/Danh từ
+Porcelain vase: Lọ sứ
+data/image/lohoa.jpg
+false
+Wallpaper
+Giấy dán tường
+'wɔ:l,peipə
+Noun/Danh từ
+Floral wallpaper: Giấy dán tường hình cây cỏ
+data/image/giaydantuong.jpg
+false
+Washing machine
+Máy giặt
+'wɒ∫iŋ mə∫i:n
+Noun/Danh từ
+Automatic washing machine: Máy giặt tự động
+data/image/maygiat.jpg
+false
+Window
+Cửa sổ
+'windou
+Noun/Danh từ
+The ball smashed a window: Quả bóng đã làm vỡ cửa sổ
+data/image/cuaso.jpg
+false
+﻿Chair
+Ghế
+t∫eə[r]
+Noun/Danh từ
+Take a chair: Ngồi xuống ghế
+data/image/ghe.jpg
+false

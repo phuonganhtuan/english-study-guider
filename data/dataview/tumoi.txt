@@ -1,0 +1,60 @@
+Cucumber
+Dưa chuột
+'kju:kʌmbə
+Noun/Danh từ
+Ridge cucumber: Dưa chuột trồng luống
+data/image/DAduachuot.jpg
+Egg
+Trứng
+eg
+Noun/Danh từ
+Easter egg: Trứng phục sinh
+data/image/DAtrung.jpg
+Grape
+Quả nho
+greip
+Noun/Danh từ
+A bunch of grapes: Chùm nho
+data/image/DAquanho.jpg
+Grapefruit
+Quả bưởi
+'greipfru:t
+Noun/Danh từ
+The grapefruit tree in our garden is in fruit: Cây bưởi trong vườn chúng tôi đang ra trái
+data/image/DAquabuoi.jpg
+Mango
+Quả xoài
+'mæŋgəʊ
+Noun/Danh từ
+About 13 tons of mango had been consumed by the end of 2015 in Japan: Khoảng 13 tấn xoài đã được tiêu thụ vào cuối năm 2015 tại Nhật Bản
+data/image/DAquaxoai.jpg
+Milk
+Sữa
+milk
+Noun/Danh từ
+Powdered milk: Sữa bột
+data/image/DAsua.jpg
+Orange
+Quả cam
+'ɔrindʒ
+Noun/Danh từ
+Orange juice: Nước cam
+data/image/DAquacam.jpg
+Peach
+Quả đào
+pi:t∫
+Noun/Danh từ
+A peach stone: Hột đào
+data/image/DAquadao.jpg
+Pear
+Quả lê
+peə[r]
+Noun/Danh từ
+Pear brandy: Rượu lê
+data/image/DAquale.jpg
+Pineapple
+Quả dứa
+'painæpl
+Noun/Danh từ
+Pineapple juice: Nước dứa
+data/image/DAquaduas.jpg

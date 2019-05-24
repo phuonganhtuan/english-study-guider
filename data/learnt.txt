@@ -1,0 +1,588 @@
+Banana
+Quả chuối
+bə'nɑ:nə
+Noun/Danh từ
+A hand of bananas: Nải chuối
+data/image/DAquachuoi.jpg
+Beef
+Thịt bò
+bi:f
+Noun/Danh từ
+Air-dried beef: Thịt bò khô
+data/image/DAthitbo.jpg
+Biscuit
+Bánh quy
+'biskit
+Noun/Danh từ
+Peter is nibbling at a chocolate biscuit: Peter đang gặm một cái bánh quy sô cô la
+data/image/DAbanhquy.jpg
+Cabbage
+Bắp cải
+'kæbidʒ
+Noun/Danh từ
+Cabbage stump: Lõi bắp cải
+data/image/DAbapcai.jpg
+Cake
+Bánh ngọt
+keik
+Noun/Danh từ
+Chocolate cake: Bánh ngọt socola
+data/image/DAbanhngot.jpg
+Carrot
+Cà rốt
+'kærət
+Noun/Danh từ
+He chopped up the carrot: Anh ấy băm nhỏ củ cà rốt
+data/image/DAcarot.jpg
+Chicken
+Thịt gà
+'t∫ikin
+Noun/Danh từ
+Broiled chicken: Gà nướng
+data/image/DAthitga.jpg
+Chocolate
+Sô cô la
+'t∫ɔkəlit
+Noun/Danh từ
+Chocolate bar: Thanh socola
+data/image/DAsocola.jpg
+Coconut
+Quả dừa
+'koukənʌt
+Noun/Danh từ
+Coconut milk: Nước dừa
+data/image/DAquaduaf.jpg
+Cream
+Kem
+kri:m
+Noun/Danh từ
+Chocolate creams: Kem socola
+data/image/DAkem.jpg
+Cucumber
+Dưa chuột
+'kju:kʌmbə
+Noun/Danh từ
+Ridge cucumber: Dưa chuột trồng luống
+data/image/DAduachuot.jpg
+Egg
+Trứng
+eg
+Noun/Danh từ
+Easter egg: Trứng phục sinh
+data/image/DAtrung.jpg
+Grape
+Quả nho
+greip
+Noun/Danh từ
+A bunch of grapes: Chùm nho
+data/image/DAquanho.jpg
+Grapefruit
+Quả bưởi
+'greipfru:t
+Noun/Danh từ
+The grapefruit tree in our garden is in fruit: Cây bưởi trong vườn chúng tôi đang ra trái
+data/image/DAquabuoi.jpg
+Mango
+Quả xoài
+'mæŋgəʊ
+Noun/Danh từ
+About 13 tons of mango had been consumed by the end of 2015 in Japan: Khoảng 13 tấn xoài đã được tiêu thụ vào cuối năm 2015 tại Nhật Bản
+data/image/DAquaxoai.jpg
+Milk
+Sữa
+milk
+Noun/Danh từ
+Powdered milk: Sữa bột
+data/image/DAsua.jpg
+Orange
+Quả cam
+'ɔrindʒ
+Noun/Danh từ
+Orange juice: Nước cam
+data/image/DAquacam.jpg
+Peach
+Quả đào
+pi:t∫
+Noun/Danh từ
+A peach stone: Hột đào
+data/image/DAquadao.jpg
+Pear
+Quả lê
+peə[r]
+Noun/Danh từ
+Pear brandy: Rượu lê
+data/image/DAquale.jpg
+Pineapple
+Quả dứa
+'painæpl
+Noun/Danh từ
+Pineapple juice: Nước dứa
+data/image/DAquaduas.jpg
+Plum
+Quả mận
+plʌm
+Noun/Danh từ
+Sand plum: Mận cát
+data/image/DAquaman.jpg
+Pomegranate
+Quả lựu
+'pɔmigrænit
+Noun/Danh từ
+Pomegranate seeds: Hạt lựu
+data/image/DAqualuu.jpg
+Pork
+Thịt lợn
+pɔ:k
+Noun/Danh từ
+Smoked pork loin: Thịt lợn hun khói
+data/image/DAthitlon.jpg
+Potato
+Khoai tây
+pə'teitou
+Noun/Danh từ
+Potato crisp: Khoai tây lát rán giòn
+data/image/DAkhoaitay.jpg
+Sausage
+Xúc xích
+'sɔsidʒ
+Noun/Danh từ
+Vienna sausage: xúc xích viên
+data/image/DAxucxich.jpg
+Strawberry
+Quả dâu tây
+'strɔ:bri
+Noun/Danh từ
+Strawberry cream: Kem dâu tây
+data/image/DAdautay.jpg
+Sugar
+Đường
+'∫ugə
+Noun/Danh từ
+Lump sugar: Đường miếng
+data/image/DAduong.jpg
+Tomato
+Cà chua
+tə'mɑ:tou
+Noun/Danh từ
+Tomato sause: Nước sốt cà chua
+data/image/DAcachua.jpg
+Yoghurt
+Sữa chua
+'jougə:t
+Noun/Danh từ
+Yoghurt starter: Men sữa chua
+data/image/DAsuachua.jpg
+Bat
+Con dơi
+bæt
+Noun/Danh từ
+Bats live in the dark: Dơi sống trong bóng tối
+data/image/DVcondoi.jpg
+Bee
+Con ong
+bi:
+Noun/Danh từ
+Queen bee: Ong chúa
+data/image/DVconong.jpg
+Camel
+Lạc đà
+'kæml
+Noun/Danh từ
+Arabian camel: Lạc đà một bướu
+data/image/DVlacda.jpg
+Cat
+Con mèo
+kat
+Noun/Danh từ
+My brother named his cat Huazi: Em trai tôi đặt tên cho con mèo của nó là Huazi
+data/image/DVconmeo.jpg
+Cobra
+Rắn hổ mang
+'kəʊbrə
+Noun/Danh từ
+The big black cobra: Một con rắn hổ mang lớn màu đen
+data/image/DVranhomang.jpg
+Crab
+Con cua
+kræb
+Noun/Danh từ
+Nipped by a crab: Bị cua kẹp
+data/image/DVconcua.jpg
+Cricket
+Con dế mèn
+'krikit
+Noun/Danh từ
+Diary of a cricket: Dế mèn phiêu lưu ký
+data/image/DVcondemen.jpg
+Crocodile
+Con cá sấu
+'krɒkədail
+Noun/Danh từ
+Crocodile tears: Nước mắt cá sấu
+data/image/DVcasau.jpg
+Dog
+Con chó
+dɔg
+Noun/Danh từ
+A dog bit me: 1 con chó cắn tôi
+data/image/DVconcho.jpg
+Duck
+Con vịt
+dʌk
+Noun/Danh từ
+It's like water on the duck's back: Nước đổ đầu vịt
+data/image/DVconvit.jpg
+Eagle
+Chim đại bàng
+'i:gl
+Noun/Danh từ
+Eagle seizing its prey: Đại bàng chộp mồi
+data/image/DVdaibang.jpg
+Eel
+Con lươn
+i:l
+Noun/Danh từ
+As slippery as an eel: Trơn tuột như lươn
+data/image/DVconluon.jpg
+Elephant
+Con voi
+'elifənt
+Noun/Danh từ
+Tamed elephant: Voi đã được thuần dưỡng
+data/image/DVconvoi.jpg
+Falcon
+Chim ưng
+'fɔ:lkən
+Noun/Danh từ
+Falcon is a symbol of liberty, freedom, and victory: Chim ưng là một biểu tượng của sự tự do và chiến thắng
+data/image/DVchimung.jpg
+Fly
+Con ruồi
+flai
+Noun/Danh từ
+Black fly: Ruồi đen
+data/image/DVconruoi.jpg
+Fox
+Con cáo
+fäks
+Noun/Danh từ
+Suddenly we catch sight of a fox: Bất chợt chúng tôi nhìn thấy một con cáo
+data/image/DVconcao.jpg
+Frog
+Con ếch
+frɔ:g
+Noun/Danh từ
+I dissected a frog once: Tôi từng mổ ếch 1 lần
+data/image/DVconech.jpg
+Gecko
+Con tắc kè
+'gekəʊ
+Noun/Danh từ
+Gecko toes are padded with flexible ridges: Ngón chân tắc kè có những lớp đệm linh hoạt
+data/image/Dvtacke.jpg
+Giraffe
+Hươu cao cổ
+dʒi'rɑ:f
+Noun/Danh từ
+The giraffe is characterized by its very long neck: Hươu cao cổ có đặc điểm là cổ rất dài
+data/image/DVhuoucaoco.jpg
+Goat
+Con dê
+gəʊt
+Noun/Danh từ
+Milch goat: Dê sữa
+data/image/DVconde.jpg
+Grasshopper
+Châu chấu
+grɑ:shɒpə
+Noun/Danh từ
+Want to eat a grasshopper?: Muốn ăn châu chấu không hả?
+data/image/DVchauchau.jpg
+Jellyfish
+Con sứa
+'dʒelifi∫
+Noun/Danh từ
+The box jellyfish, the deadliest venom: Loài sứa hộp với nọc độc chết người nhất
+data/image/DVconsua.jpg
+Leopard
+Con báo
+'lepəd
+Noun/Danh từ
+A leopard stealing up in silence through the darkness: Con báo âm thầm, rón rén đi đến trong bóng tối
+data/image/DVconbao.jpg
+Lion
+Sư tử
+'laiən
+Noun/Danh từ
+Lion roared: Con sư tử gầm lên
+data/image/DVsutu.jpg
+Mantis
+Con bọ ngựa
+'mæntis
+Noun/Danh từ
+Even Mantis has those thingies: Đến bọ ngựa còn có càng
+data/image/DVbongua.jpg
+Monkey
+Con khỉ
+'mʌŋki
+Noun/Danh từ
+Stupid monkey: Đồ khỉ ngu ngốc
+data/image/DVconkhi.jpg
+Mosquito
+Con muỗi
+mɒs'ki:təʊ
+Noun/Danh từ
+The parasite evolves and the mosquito evolves: ký sinh trùng sốt rét và loài muỗi đang tiến hóa
+data/image/DVconmuoi.jpg
+Mouse
+Con chuột
+maʊs
+Noun/Danh từ
+A mouse - trap: Cái bẫy chuột
+data/image/DVconchuot.jpg
+Owl
+Con cú
+aʊl
+Noun/Danh từ
+An owl can see in the dark: Con cú có thể nhìn rõ trong bóng tối
+data/image/DVconcu.jpg
+Panda
+Gấu trúc
+ˈpændə
+Noun/Danh từ
+Run, run, little panda: Chạy đi gấu trúc bé nhỏ
+data/image/DVgautruc.jpg
+Parrot
+Con vẹt
+'pærət
+Noun/Danh từ
+You sound like a parrot: Bạn nói như con vẹt vậy
+data/image/DVconvet.jpg
+Pigeon
+Chim bồ câu
+'pidʒin
+Noun/Danh từ
+Carrier pigeon: Bồ câu đưa thư
+data/image/DVbocau.jpg
+Sheep
+Con cừu
+∫i:p
+Noun/Danh từ
+Sheep poop: Phân cừu
+data/image/DVconcuu.jpg
+Snake
+Con rắn
+sneik
+Noun/Danh từ
+Venomous snake: Con rắn độc
+data/image/DVconran.jpg
+Tiger
+Con hổ
+'taigə
+Noun/Danh từ
+Tigers are bigger and stronger than cats: Hổ lớn hơn và khỏe hơn mèo
+data/image/DVconho.jpg
+Balloon
+Bóng bay
+bə'lu:n
+Noun/Danh từ
+Red balloon: Bóng bay đỏ
+data/image/bongbay.jpg
+Bed
+Giường
+bed
+Noun/Danh từ
+A double bed: Giường đôi
+data/image/giuong.jpg
+Bin
+Thùng
+bin
+Noun/Danh từ
+Rubbish bin: Thùng rác
+data/image/thung.jpg
+Blanket
+Chăn
+'blæηkit
+Noun/Danh từ
+Roll a blanket: Cuốn một cái chăn
+data/image/chan.jpg
+Blind
+Tấm mành
+blaind
+Noun/Danh từ
+Roller blind: Mành cuốn
+data/image/manh.jpg
+Bookshelf
+Giá sách
+'buk∫elf
+Noun/Danh từ
+The bookshelf is too high for me to reach: Kệ sách đó quá cao để tôi có thể với tới
+data/image/giasach.jpg
+Brick
+Gạch
+brik
+Noun/Danh từ
+To make bricks: Nung gạch
+data/image/gach.jpg
+Broom
+Cái chổi
+bru:m
+Noun/Danh từ
+Broom-stick: Cán chổi
+data/image/choi.jpg
+Car
+Ô tô
+kɑ:
+Noun/Danh từ
+Armoured car: Xe bọc thép
+data/image/oto.jpg
+Carpet
+Thảm trải nền
+'kɑ:pit
+Noun/Danh từ
+Lay a carpet: Trải thảm
+data/image/tham.jpg
+Clock
+Đồng hồ
+klɔk
+Noun/Danh từ
+The clock has just struck three: Đồng hồ vừa điểm ba giờ
+data/image/dongho.jpg
+Cup
+Cốc
+kʌp
+Noun/Danh từ
+Baking cup: Cốc hình giấy (để tạo hình bánh gatô cốc)
+data/image/coc.jpg
+Desk
+Bàn làm việc
+desk
+Noun/Danh từ
+An office desk: Bàn làm việc ở cơ quan
+data/image/banlamviec.jpg
+Fan
+Cái quạt
+fæn
+Noun/Danh từ
+An electric fan: Quạt điện
+data/image/quat.jpg
+Key
+Chìa khóa
+ki:
+Noun/Danh từ
+Turn the key in the lock: Xoay chìa khóa trong ổ khóa
+data/image/chiakhoa.jpg
+Lamp
+Đèn
+læmp
+Noun/Danh từ
+Table lamp: Đèn để bàn
+data/image/den.jpg
+Lock
+Cái khóa
+lɔk
+Noun/Danh từ
+To pick a lock: Mở khóa bằng móc
+data/image/khoa.jpg
+Mirror
+Gương
+'mirə
+Noun/Danh từ
+Convex mirror: Gương lồi
+data/image/guong.jpg
+Motorbike
+Xe máy
+'moutəbaik
+Noun/Danh từ
+Motorbike repair shop: Tiệm sửa xe máy
+data/image/xemay.jpg
+Phone
+Điện thoại
+foun
+Noun/Danh từ
+Phone number: Số điện thoại
+data/image/dienthoai.jpg
+Picture
+Bức tranh
+'pikt∫ə[r]
+Noun/Danh từ
+His picture of cows won a prize: Bức tranh của anh ấy về mấy con bò cái đã đoạt giải
+data/image/buctranh.jpg
+Pillow
+Gối
+'pilou
+Noun/Danh từ
+Stuff a pillow with feathers: Nhồi lông chim vào gối
+data/image/goi.jpg
+Shirt
+Áo sơ mi
+∫ə:t
+Noun/Danh từ
+A sports shirt: Áo sơ mi thể thao
+data/image/aosomi.jpg
+Spade
+Xẻng
+speid
+Noun/Danh từ
+A garden spade: Xẻng làm vườn
+data/image/xeng.jpg
+Television
+Vô tuyến truyền hình
+'teliviʒn
+Noun/Danh từ
+A television documentary: Một phim tài liệu truyền hình
+data/image/tivi.jpg
+Towel
+Khăn lau
+'taʊəl
+Noun/Danh từ
+A hand-towel: Khăn tay
+data/image/khan.jpg
+Vase
+Lọ hoa
+vɑ:z
+Noun/Danh từ
+Porcelain vase: Lọ sứ
+data/image/lohoa.jpg
+Wallpaper
+Giấy dán tường
+'wɔ:l,peipə
+Noun/Danh từ
+Floral wallpaper: Giấy dán tường hình cây cỏ
+data/image/giaydantuong.jpg
+Washing machine
+Máy giặt
+'wɒ∫iŋ mə∫i:n
+Noun/Danh từ
+Automatic washing machine: Máy giặt tự động
+data/image/maygiat.jpg
+Window
+Cửa sổ
+'windou
+Noun/Danh từ
+The ball smashed a window: Quả bóng đã làm vỡ cửa sổ
+data/image/cuaso.jpg
+Appl
+Quả táo
+'æpl
+Noun/Danh từ
+Apple brandy: Rượu táo
+data/image/DAquatao.jpg
+Apple
+Quả táo
+'æpl
+Noun/Danh từ
+Apple brandy: Rượu táo
+data/image/DAquatao.jpg
+Bicycle
+Xe đạp
+'baisikl
+Noun/Danh từ
+Folding bicycle: Xe đạp gấp
+data/image/xedap.jpg
+Knife
+Dao
+naif
+Noun/Danh từ
+Sharp knife: Dao sắc
+data/image/dao.jpg

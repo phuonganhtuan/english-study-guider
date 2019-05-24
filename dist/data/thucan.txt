@@ -1,0 +1,217 @@
+Apple
+Quả táo
+'æpl
+Noun/Danh từ
+Apple brandy: Rượu táo
+data/image/DAquatao.jpg
+true
+Apple
+Quả táo
+'æpl
+Noun/Danh từ
+Apple brandy: Rượu táo
+data/image/DAquatao.jpg
+true
+Banana
+Quả chuối
+bə'nɑ:nə
+Noun/Danh từ
+A hand of bananas: Nải chuối
+data/image/DAquachuoi.jpg
+true
+Biscuit
+Bánh quy
+'biskit
+Noun/Danh từ
+Peter is nibbling at a chocolate biscuit: Peter đang gặm một cái bánh quy sô cô la
+data/image/DAbanhquy.jpg
+true
+Cabbage
+Bắp cải
+'kæbidʒ
+Noun/Danh từ
+Cabbage stump: Lõi bắp cải
+data/image/DAbapcai.jpg
+true
+Cake
+Bánh ngọt
+keik
+Noun/Danh từ
+Chocolate cake: Bánh ngọt socola
+data/image/DAbanhngot.jpg
+true
+Carrot
+Cà rốt
+'kærət
+Noun/Danh từ
+He chopped up the carrot: Anh ấy băm nhỏ củ cà rốt
+data/image/DAcarot.jpg
+true
+Chicken
+Thịt gà
+'t∫ikin
+Noun/Danh từ
+Broiled chicken: Gà nướng
+data/image/DAthitga.jpg
+true
+Chocolate
+Sô cô la
+'t∫ɔkəlit
+Noun/Danh từ
+Chocolate bar: Thanh socola
+data/image/DAsocola.jpg
+true
+Coconut
+Quả dừa
+'koukənʌt
+Noun/Danh từ
+Coconut milk: Nước dừa
+data/image/DAquaduaf.jpg
+true
+Cream
+Kem
+kri:m
+Noun/Danh từ
+Chocolate creams: Kem socola
+data/image/DAkem.jpg
+true
+Cucumber
+Dưa chuột
+'kju:kʌmbə
+Noun/Danh từ
+Ridge cucumber: Dưa chuột trồng luống
+data/image/DAduachuot.jpg
+true
+Egg
+Trứng
+eg
+Noun/Danh từ
+Easter egg: Trứng phục sinh
+data/image/DAtrung.jpg
+true
+Grape
+Quả nho
+greip
+Noun/Danh từ
+A bunch of grapes: Chùm nho
+data/image/DAquanho.jpg
+true
+Grapefruit
+Quả bưởi
+'greipfru:t
+Noun/Danh từ
+The grapefruit tree in our garden is in fruit: Cây bưởi trong vườn chúng tôi đang ra trái
+data/image/DAquabuoi.jpg
+true
+Mango
+Quả xoài
+'mæŋgəʊ
+Noun/Danh từ
+About 13 tons of mango had been consumed by the end of 2015 in Japan: Khoảng 13 tấn xoài đã được tiêu thụ vào cuối năm 2015 tại Nhật Bản
+data/image/DAquaxoai.jpg
+true
+Milk
+Sữa
+milk
+Noun/Danh từ
+Powdered milk: Sữa bột
+data/image/DAsua.jpg
+true
+Orange
+Quả cam
+'ɔrindʒ
+Noun/Danh từ
+Orange juice: Nước cam
+data/image/DAquacam.jpg
+true
+Peach
+Quả đào
+pi:t∫
+Noun/Danh từ
+A peach stone: Hột đào
+data/image/DAquadao.jpg
+true
+Pear
+Quả lê
+peə[r]
+Noun/Danh từ
+Pear brandy: Rượu lê
+data/image/DAquale.jpg
+true
+Pineapple
+Quả dứa
+'painæpl
+Noun/Danh từ
+Pineapple juice: Nước dứa
+data/image/DAquaduas.jpg
+true
+Plum
+Quả mận
+plʌm
+Noun/Danh từ
+Sand plum: Mận cát
+data/image/DAquaman.jpg
+true
+Pomegranate
+Quả lựu
+'pɔmigrænit
+Noun/Danh từ
+Pomegranate seeds: Hạt lựu
+data/image/DAqualuu.jpg
+true
+Pork
+Thịt lợn
+pɔ:k
+Noun/Danh từ
+Smoked pork loin: Thịt lợn hun khói
+data/image/DAthitlon.jpg
+true
+Potato
+Khoai tây
+pə'teitou
+Noun/Danh từ
+Potato crisp: Khoai tây lát rán giòn
+data/image/DAkhoaitay.jpg
+true
+Sausage
+Xúc xích
+'sɔsidʒ
+Noun/Danh từ
+Vienna sausage: xúc xích viên
+data/image/DAxucxich.jpg
+true
+Strawberry
+Quả dâu tây
+'strɔ:bri
+Noun/Danh từ
+Strawberry cream: Kem dâu tây
+data/image/DAdautay.jpg
+true
+Sugar
+Đường
+'∫ugə
+Noun/Danh từ
+Lump sugar: Đường miếng
+data/image/DAduong.jpg
+true
+Tomato
+Cà chua
+tə'mɑ:tou
+Noun/Danh từ
+Tomato sause: Nước sốt cà chua
+data/image/DAcachua.jpg
+true
+Yoghurt
+Sữa chua
+'jougə:t
+Noun/Danh từ
+Yoghurt starter: Men sữa chua
+data/image/DAsuachua.jpg
+true
+﻿Rice
+Gạo
+rais
+Noun/Danh từ
+Glutinous rice: Gạo nếp
+data/image/DAgao.jpg
+true
